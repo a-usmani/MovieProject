@@ -1,5 +1,7 @@
 # Movie Project
-Movie viewing app to watch trailers and read/write reviews for specific titles. Uses Java spring boot and MongoDB to store the movie API as the backend and react as the front end.
-![2023-08-16 (5)](https://github.com/a-usmani/MovieProject/assets/105238278/a7d7bab4-2ca6-4a4c-83f3-473f7be312f8)
-![2023-08-16 (4)](https://github.com/a-usmani/MovieProject/assets/105238278/395c92a6-7661-4128-870a-b3eefde0c2f5)
-![2023-08-16 (3)](https://github.com/a-usmani/MovieProject/assets/105238278/ed447942-8948-4534-acc4-1d6cbf6b9531)
+Movie managing app to create a user account and watch trailers and create/remove reviews for specific titles or admin account to manage movie database. Uses Java spring boot and JWT as the backend to store movie API in MongoDB and  react as the front end.
+
+![movies1](https://github.com/a-usmani/MovieProject/assets/105238278/e4971c51-bfb4-4d2f-a32f-ec2ebf45d8b9)
+![movies2](https://github.com/a-usmani/MovieProject/assets/105238278/61112353-42de-485f-929f-2fcdaa59ba61)
+![movies3](https://github.com/a-usmani/MovieProject/assets/105238278/766f8312-776c-4899-b844-6e0ad286054a)
+![movies4](https://github.com/a-usmani/MovieProject/assets/105238278/3d6cfb0f-51b5-4875-9dcd-27e53ecfb14b)
